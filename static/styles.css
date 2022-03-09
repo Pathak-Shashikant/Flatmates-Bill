@@ -1,0 +1,47 @@
+h2{
+    text-align: center;
+    font-size: 3rem;
+}
+
+body{
+    background-color: GhostWhite;
+    margin: 10px 20px;
+}
+
+p{
+    font-size: 2rem;
+}
+
+form{
+    font-size: 1.5rem;
+}
+
+a{
+    font-size: 1.5rem;
+}
+
+input[type=text] {
+    font-size: 1.5rem;
+    width: 100%;
+}
+
+input[type=submit]{
+    background-color: green;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 1.8rem;
+    margin-top: 30px;
+    padding: 8px 0;
+    width: 100%;
+}
+
+.result{
+    font-size: 2rem;
+    text-align: center;
+}
+
+hr{
+    border-top: dotted;
+    width: 30%;
+    font-size: 1.2rem;
+}
